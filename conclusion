@@ -1,0 +1,19 @@
+## Conclusión
+
+Hemos elegido trabajar directamente usando HTML y Bootstrap sin ninguna  herramienta de generación de código adicional. 
+
+Para la adaptación del Layout a cualquier dispositivo hemos hecho una web responsive y hemos seguido los patrones de nuestro propio diseño entregado en la práctica anterior incluyendo varias modificaciones y mejoras.
+
+Hemos elegido la fuente que aparece por defecto en Bootstrap (Roboto) usando  distintos displays y grosor para títulos, subtítulos y párrafos.
+
+Para la mayoría de las letras usamos un color negro (#212529) excepto las letras de la barra de navegación que serán blancas (#FFFFFF) y grises en el footer (#6C757D)
+
+Para la barra de navegación y los botones hemos usado un color azul (#4285F4), en panel de búsqueda y el background dos grises (#E0E0E0) y (#EFEFEF) respectivamente, y para el footer un color oscuro (#1F271B). 
+
+Como ventajas en nuestro diseño nos enfocamos en la claridad visual y hemos facilitado el uso de nuestra web con respecto a los demás competidores para mejorar la experiencia de usuario.
+
+La búsqueda de eventos se convierte en una acción simple que se puede realizar en cualquier momento sin depender de la página en la que nos encontremos.
+
+En esta práctica hemos aprendido la importancia del valor del diseño en el ciclo de desarrollo de un proyecto, ideando un prototipo mejorado que cumpla la función como agenda de eventos en Granada. 
+
+Al no usar herramientas de apoyo y generación de código hemos tenido una limitación en el alcance de nuestro diseño y hemos optado por un diseño y formato simple pero siguiendo las reglas de claridad y consistencia visual.
